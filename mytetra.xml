@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" icon="/Gnome/color_gnome_2_accessories-dictionary.svg" id="1644917081zcr1sr35ry" name="Instead">
+   <node crypt="" id="1644917188rkpkq7j29w" name="Солнечный пёс">
+    <recordtable>
+     <record id="1644918498s9ms40q297" name="Идея" author="" url="" tags="" ctime="20220215144818" dir="1644918498z8r2ehzamx" file="text.html"/>
+     <record id="1644917467z0rzqhkyma" name="Мир" author="" url="" tags="" ctime="20220215143107" dir="164491746724orouynx8" file="text.html"/>
+     <record id="1644917851zq3chh7k09" name="Сюжет" author="" url="" tags="" ctime="20220215143731" dir="1644917851ruukqummjg" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" icon="/Gnome/color_gnome_2_computer.svg" id="1644943451gqsnrbc04m" name="Программирование">
+   <recordtable>
+    <record id="1644946660h7h9x5ubm5" name="Учебники по Java" author="" url="" tags="java,учебник" ctime="20220215223740" dir="1644946660ihcul4u99p" file="text.html">
+     <files>
+      <file id="1644946674flkrf5vqe4" fileName="Хорстманн Кей, Java. Библиотека профессионала, том 1 Основы.pdf" type="file"/>
+      <file id="1644946676vbrckohuzk" fileName="Хорстманн Кей, Java. Библиотека профессионала, том 2 Расширенные средства.pdf" type="file"/>
+     </files>
+    </record>
+    <record id="1644946851rwm0p0ki61" name="Учебники по Python" author="" url="" tags="python,учебники" ctime="20220215224051" dir="1644946851jhnaunzrxe" file="text.html">
+     <files>
+      <file id="1644946860iyflopo3xl" fileName="Лутц Марк, Изучаем Python, Том 1 (изд. 5).pdf" type="file"/>
+      <file id="1644946862ioxk42kpk6" fileName="Лутц Марк, Изучаем Python, Том 2 (изд. 5).pdf" type="file"/>
+      <file id="16449468636ilkx909fv" fileName="Лутц Марк, Карманный справочник по Python.pdf" type="file"/>
+     </files>
+    </record>
+    <record id="1644946919lcvveptmsu" name="Учебники по Common Lisp" author="" url="" tags="lisp,учебники" ctime="20220215224159" dir="1644946919rp2s9g2qph" file="text.html">
+     <files>
+      <file id="1644946933c53uyta0jf" fileName="pcl-ru.pdf" type="file"/>
+      <file id="16449470303ghddq78yl" fileName="ansicl-ru.pdf" type="file"/>
+      <file id="1644947030mqr5kpyv5h" fileName="sicp-en.pdf" type="file"/>
+      <file id="1644947030q22ibh49qc" fileName="sicp-ru.pdf" type="file"/>
+     </files>
+    </record>
+   </recordtable>
+   <node crypt="" icon="/Gnome/color_gnome_2_accessories-text-editor.svg" id="1644943467irqquhimx2" name="Конспекты">
+    <node crypt="" icon="/Gnome/color_gnome_2_accessories-text-editor.svg" id="1644945247ec5q4460on" name="Java">
+     <recordtable>
+      <record id="1644945265x2ljkadx4t" name="Типы данных" author="" url="" tags="java,конспект" ctime="20220215221425" dir="1644945265ujmod7gbid" file="text.html"/>
+      <record id="1644945282uvmoqesp27" name="Числовые литералы" author="" url="" tags="java,конспект" ctime="20220215221442" dir="1644945282xu9k0hoini" file="text.html"/>
+      <record id="1644945297cphvtbefdv" name="Управляющие последовательности" author="" url="" tags="java,конспект" ctime="20220215221457" dir="1644945297gllgar73an" file="text.html"/>
+      <record id="1644945317wzi7upsgkx" name="Переменные и константы" author="" url="" tags="java,конспект" ctime="20220215221517" dir="1644945317htwowbbq66" file="text.html"/>
+      <record id="164494580635evpwdtrz" name="Перечислимый тип" author="" url="" tags="java,конспект" ctime="20220215222326" dir="16449458063b1ye9jq1f" file="text.html"/>
+      <record id="1644945950zjt2wnjy0m" name="Арифметические операции" author="" url="" tags="java,конспект" ctime="20220215222550" dir="1644945950u685td587y" file="text.html"/>
+      <record id="16449463011lc0nytjpr" name="Математические функции и константы" author="" url="" tags="java,конспект" ctime="20220215223141" dir="16449463014bbw2178qc" file="text.html"/>
+      <record id="16449463598ar6mtn01r" name="Приведение типов" author="" url="" tags="java,конспект" ctime="20220215223239" dir="1644946359mauab7h5pm" file="text.html"/>
+      <record id="1644946593qtwocko4u8" name="Инкремент и декремент" author="" url="" tags="java,конспект" ctime="20220215223633" dir="1644946593g7lw2d3j2v" file="text.html"/>
+      <record id="1644947172ndrv5txo26" name="Операции отношения и логические операции" author="" url="" tags="java,конспект" ctime="20220215224612" dir="1644947172d8yvq9cuyi" file="text.html"/>
+      <record id="1644949641wnjrlhzq3v" name="Тернарная операция" author="" url="" tags="java,конспект" ctime="20220215232721" dir="1644949641xsxwfk2f5r" file="text.html"/>
+      <record id="164494970415d4t1t2hp" name="Битовые операции" author="" url="" tags="java,конспект" ctime="20220215232824" dir="1644949704jj02rm06s3" file="text.html"/>
+      <record id="1644949751n596kvf891" name="Иерархия операций" author="" url="" tags="java,конспект" ctime="20220215232911" dir="1644949751nk60ozhy2y" file="text.html"/>
+      <record id="1644950262idyoo8ufn5" name="Символьные строки" author="" url="" tags="java,конспект" ctime="20220215233742" dir="1644950262qhf7o7vgqi" file="text.html"/>
+      <record id="1644950428ytgmjufgkp" name="Кодовые точки и единицы" author="" url="" tags="java,конспект" ctime="20220215234028" dir="1644950428b98730sny9" file="text.html"/>
+      <record id="1644950678ughlsevkks" name="String API" author="" url="" tags="java,конспект" ctime="20220215234438" dir="16449506782gdzwq8xw7" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="1644914377nmjw16rdtx" name="UkM1U0lNUAO3GBQxjQtWVIu1tVebrQwQobi8rG2n6BdCKvACywjKR9DYUCNbEF+1NpOTVjCFboM=">
+   <node crypt="1" icon="" id="1644914665qbhvp9ypun" name="UkM1U0lNUAMinm3ZtoILRB0INc1DjWE92krQVK3aaXeq+0ZFy5zqtMzPddBvDkqPG3ey8+OOqDE=">
+    <recordtable>
+     <record id="1644914846hf4w8ozan8" name="UkM1U0lNUAMIZycY4EQWejdDVGPHC2pwz9Vdx/ljKQ0oCPQRt2BT30trsgCI1PVx2yDT6+KENuUQVyPyxmavLop6Rc3TL7oy" author="" url="" tags="UkM1U0lNUAOAk8vnuuPH/t/ap93JXFWoU/CQyUt/InyNBUU2wz8vqHJrTQyJCmXIjykouYe9KynNQQoPwcUXag==" ctime="20220215134726" dir="1644914846a6hfd2vuke" file="text.html" crypt="1"/>
+     <record id="1644920678fttzcn4cnb" name="UkM1U0lNUAPhkzZKL/1De8R5JxvuS+wOQ0oRkn/UczpgE3+Ze3Do8Yy3WoH8UGJmM0NYnUMy/9wkVHvOFeR9TnpPQnmEtpeq" author="" url="" tags="UkM1U0lNUAOZ6AssH1ZcHK8XEyPejpoTsd1MH4EfGywu9iSq0OQoTDSRs0E34SFy9LYNuDAk84UR4xklndh6Ag==" ctime="20220215152438" dir="1644920678bkegvyz4xs" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" icon="/Gnome/color_gnome_2_ascii.svg" id="16449477007iptx40bsc" name="Статьи">
+   <recordtable>
+    <record id="16449481076v4fub0gie" name="Самая полезная программа на свете" author="webhamster " url="https://habr.com/ru/post/316814/" tags="mytetra,база знаний.memex" ctime="20220215230147" dir="1644948107nbzw6sm95j" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
