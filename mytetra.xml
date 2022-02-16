@@ -58,6 +58,7 @@
       <record id="1644987172rv3ajbn9g9" name="Построение символьных строк" author="" url="" tags="java,конспект" ctime="20220216095252" dir="16449871725o1zt6is9e" file="text.html"/>
       <record id="1644987392psekc3p2p5" name="Ввод и вывод" author="" url="" tags="java,конспект" ctime="20220216095632" dir="1644987392rsh4i15ia9" file="text.html"/>
       <record id="16449879908ikx3zys3h" name="Форматирование вводимых данных" author="" url="" tags="java,конспект" ctime="20220216100630" dir="1644987990lfdu590bbp" file="text.html"/>
+      <record id="1645001622jhch9185le" name="Файловый ввод и вывод" author="" url="" tags="java,конспект" ctime="20220216135342" dir="1645001622hzw43evhwd" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -73,6 +74,7 @@
   <node crypt="" icon="/Gnome/color_gnome_2_ascii.svg" id="16449477007iptx40bsc" name="Статьи">
    <recordtable>
     <record id="16449481076v4fub0gie" name="Самая полезная программа на свете" author="webhamster " url="https://habr.com/ru/post/316814/" tags="mytetra,база знаний.memex" ctime="20220215230147" dir="1644948107nbzw6sm95j" file="text.html"/>
+    <record id="1645002395d71sz5q2l5" name="Zettelkasten: как один немецкий учёный стал невероятно продуктивным" author="vonoiral" url="https://habr.com/ru/post/508672/" tags="zettelkasten,цеттелькастен,хранение информации" ctime="20220216140635" dir="16450023952bf7ih2dbl" file="text.html"/>
    </recordtable>
   </node>
  </content>
